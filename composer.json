@@ -11,6 +11,10 @@
         {
             "name": "Sujan Shrestha",
             "email": "najus.shrestha@gmail.com"
+        },
+        {
+            "name": "Adam Rollinson",
+            "email": "adamleerollinson@gmail.com"
         }
     ],
     "autoload": {
